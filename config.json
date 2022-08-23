@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "6285921969852@s.whatsapp.net",
-    "ownerName": "Fadly ID",
-    "botName": "Kaysa Bot",
-    "footer": "Fadly ID",
+    "ownerNumber": "6283865752867@s.whatsapp.net",
+    "ownerName": "Rz06",
+    "botName": "RzBot-MD",
+    "footer": "RzBot-MD",
     "sessionName": "kayy-md",
     "pathimg": "./media/logo.jpg",
     "lolkey": "KaysaS",
-    "instagram": "https://instagram.com/iamfadlyid_",
+    "instagram": "-",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -15,6 +15,6 @@
     },
     "sticker": {
         "packname": "Created By",
-        "author": "Fadly ID"
+        "author": "RzBot-MD"
     }
 }
