@@ -17,7 +17,7 @@ function toCommas(x) {
 exports.allMenu = (ucapanWaktu, pushname, mundur, upload, download, ownerName, botName, jam, tanggal, runtime, isOwner, isPremium, sender, limitCount, limit, gcount, glimit, balance, prefix) => {
     return`${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'}
 
-Hitung Mundur Idul Adha
+Hitung Mundur Tahun Baru
 ${mundur}
 
 *STATISTICS*
